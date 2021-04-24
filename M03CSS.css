@@ -1,7 +1,13 @@
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	color: #665544;
-	padding: 22px;}
+	padding: 0 15% 0 15%;}
+h1 {
+	text-align: center;
+	color: blue;
+	font-size: 400%;}
+p {
+	font-size: 200%;}
 h1, h2, p {
 	padding: 12px;
 	line-height: 2em;
@@ -9,4 +15,4 @@ h1, h2, p {
     font-weight: normal;
 	font-style: normal;}
 i, a, a:hover, a:visited {
-	color: #665544;}
+	color: darkgreen;}
